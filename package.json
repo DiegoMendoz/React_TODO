@@ -39,5 +39,6 @@
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.19"
   },
-  "homepage": "https://DiegoMendoz.github.io/React_TODO"
+  "homepage": "."
+
 }
