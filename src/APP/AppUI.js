@@ -32,10 +32,10 @@ function AppUI() {
     todoToDelete,
     setTodoToDelete,
     openModal,
-    setOpenModal,
+    //setOpenModal,
     editModal,
     setEditModal,
-    todoToEdit,
+    //todoToEdit,
     setTodoToEdit,
   } = useContext(TodoContext);
 
