@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Puedes dejar estilos globales abajo si quieres */
+body {
+  margin: 0;
+}
